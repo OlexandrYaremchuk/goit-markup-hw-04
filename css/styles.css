@@ -371,7 +371,8 @@ body {
   height: 44px;
   color: #afb1b8;
 }
-.social-network-link:hover {
+.social-network-link:hover,
+.social-network-link:focus {
   color: #ffffff;
   background-color: var(--accent-color);
 }
@@ -411,7 +412,8 @@ body {
   border: 1px solid var(--icons-color);
   border-radius: 4px;
 }
-.client-link:hover {
+.client-link:hover,
+.client-link:focus {
   color: var(--accent-color);
   border-color: var(--accent-color);
 }
@@ -482,7 +484,8 @@ body {
 .project-list-item:nth-child(3n) {
   margin-right: 0px;
 }
-.project-list-item:hover .project-list-item:focus {
+.project-list-item,
+.project-list-item:focus {
   box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06),
     1px 4px 6px rgba(0, 0, 0, 0.16);
 }
@@ -621,7 +624,8 @@ body {
   color: #ffffff;
   background-color: rgba(255, 255, 255, 0.1);
 }
-.social-network-link.footer:hover .social-network-link.footer:focus {
+.social-network-link.footer:hover,
+.social-network-link.footer:focus {
   color: #ffffff;
   background-color: var(--accent-color);
 }
