@@ -482,7 +482,7 @@ body {
 .project-list-item:nth-child(3n) {
   margin-right: 0px;
 }
-.project-list-item:hover {
+.project-list-item:hover .project-list-item:focus {
   box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06),
     1px 4px 6px rgba(0, 0, 0, 0.16);
 }
@@ -621,7 +621,7 @@ body {
   color: #ffffff;
   background-color: rgba(255, 255, 255, 0.1);
 }
-.social-network-link.footer:hover {
+.social-network-link.footer:hover .social-network-link.footer:focus {
   color: #ffffff;
   background-color: var(--accent-color);
 }
