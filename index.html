@@ -29,6 +29,7 @@
               <a class="navigation-list-link link" href="./index.html"
                 >Студия</a
               >
+              <div class="visit-line"></div>
             </li>
             <li class="navigation-list-item">
               <a class="navigation-list-link link" href="./portfolio.html"
@@ -78,7 +79,9 @@
               Эффективные решения <br />
               для вашего бизнеса
             </h1>
-            <button class="hero-button" type="button">Заказать услугу</button>
+            <button class="hero-button" data-modal-open type="button">
+              Заказать услугу
+            </button>
           </div>
         </div>
       </section>
@@ -150,6 +153,9 @@
               height="294"
               title="Разработка програмного обеспечения"
             />
+            <div class="work-text">
+              <p>Десктопные приложения</p>
+            </div>
           </li>
           <li class="work-list-item">
             <img
@@ -160,6 +166,9 @@
               height="294"
               title="Адаптивность"
             />
+            <div class="work-text">
+              <p>Мобильные приложения</p>
+            </div>
           </li>
           <li class="work-list-item">
             <img
@@ -170,6 +179,9 @@
               height="294"
               title="Графический дизайн"
             />
+            <div class="work-text">
+              <p>Дизайнерские решения</p>
+            </div>
           </li>
         </ul>
       </section>
@@ -566,5 +578,18 @@
         </li>
       </ul>
     </footer>
+    <!-- MODAL -->
+    <div class="backdrop is-hidden" data-modal>
+      <div class="modal">
+        <button type="button" data-modal-close class="btn-close">
+          <div class="close-icon">
+            <svg class="close-icon-black">
+              <use href="./image/sprite.svg#icon-close-black"></use>
+            </svg>
+          </div>
+        </button>
+      </div>
+    </div>
+    <script src="./js/modal.js"></script>
   </body>
 </html>

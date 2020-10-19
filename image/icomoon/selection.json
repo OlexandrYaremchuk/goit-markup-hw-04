@@ -4,6 +4,98 @@
     {
       "icon": {
         "paths": [
+          "M853.333 233.692l-63.027-63.025-249.862 249.864-249.864-249.864-63.025 63.025 249.864 249.864-249.864 249.862 63.025 63.027 249.864-249.864 249.862 249.864 63.027-63.027-249.862-249.862 249.862-249.864z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "close-black"
+        ],
+        "colorPermutations": {
+          "12552552551": [
+            {}
+          ]
+        }
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 61,
+        "id": 2,
+        "name": "close-black",
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 7,
+      "iconIdx": 0
+    },
+    {
+      "icon": {
+        "paths": [
+          "M1024 512c0 282.77-229.23 512-512 512s-512-229.23-512-512c0-282.77 229.23-512 512-512s512 229.23 512 512z",
+          "M1006.933 512c0 273.344-221.589 494.933-494.933 494.933s-494.933-221.589-494.933-494.933c0-273.344 221.589-494.933 494.933-494.933s494.933 221.589 494.933 494.933z"
+        ],
+        "attrs": [
+          {
+            "fill": "rgb(255, 255, 255)"
+          },
+          {
+            "fill": "none",
+            "stroke": "rgb(0, 0, 0)",
+            "strokeLinejoin": "miter",
+            "strokeLinecap": "butt",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 34.13333333333333
+          }
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": true,
+        "grid": 0,
+        "tags": [
+          "elips-close"
+        ],
+        "colorPermutations": {
+          "12552552551": [
+            {
+              "f": 1
+            },
+            {
+              "s": 0
+            }
+          ]
+        }
+      },
+      "attrs": [
+        {
+          "fill": "rgb(255, 255, 255)"
+        },
+        {
+          "fill": "none",
+          "stroke": "rgb(0, 0, 0)",
+          "strokeLinejoin": "miter",
+          "strokeLinecap": "butt",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 34.13333333333333
+        }
+      ],
+      "properties": {
+        "order": 62,
+        "id": 1,
+        "name": "elips-close",
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 7,
+      "iconIdx": 1
+    },
+    {
+      "icon": {
+        "paths": [
           "M1237.333 0h-1109.332c-70.584 0-128.001 57.417-128.001 128.001v767.999c0 70.579 57.417 128 128.001 128h1109.332c70.579 0 128-57.421 128-128v-767.999c0-70.584-57.421-128.001-128-128.001zM1237.333 85.333c5.794 0 11.307 1.203 16.35 3.303l-571.017 494.906-571.023-494.906c5.042-2.097 10.557-3.303 16.354-3.303h1109.335zM1237.333 938.667h-1109.332c-23.541 0-42.668-19.123-42.668-42.667v-717.209l569.375 493.458c8.043 6.956 18 10.417 27.959 10.417s19.916-3.457 27.959-10.417l569.375-493.458v717.209c0 23.543-19.123 42.667-42.667 42.667z"
         ],
         "attrs": [
@@ -37,7 +129,7 @@
         "name": "envelope-hover",
         "prevSize": 32
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 6,
       "iconIdx": 0
     },
@@ -87,7 +179,7 @@
         "name": "smartphone",
         "prevSize": 32
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 6,
       "iconIdx": 1
     },
@@ -126,7 +218,7 @@
         "name": "facebook-1",
         "prevSize": 32
       },
-      "setIdx": 1,
+      "setIdx": 2,
       "setId": 5,
       "iconIdx": 0
     },
@@ -185,7 +277,7 @@
         "name": "instagram-2",
         "prevSize": 32
       },
-      "setIdx": 1,
+      "setIdx": 2,
       "setId": 5,
       "iconIdx": 1
     },
@@ -244,7 +336,7 @@
         "name": "linkedin-1",
         "prevSize": 32
       },
-      "setIdx": 1,
+      "setIdx": 2,
       "setId": 5,
       "iconIdx": 2
     },
@@ -283,7 +375,7 @@
         "name": "twitter-1",
         "prevSize": 32
       },
-      "setIdx": 1,
+      "setIdx": 2,
       "setId": 5,
       "iconIdx": 3
     },
@@ -333,7 +425,7 @@
         "name": "antenna-1",
         "prevSize": 32
       },
-      "setIdx": 2,
+      "setIdx": 3,
       "setId": 4,
       "iconIdx": 0
     },
@@ -572,7 +664,7 @@
         "name": "astronaut-1",
         "prevSize": 32
       },
-      "setIdx": 2,
+      "setIdx": 3,
       "setId": 4,
       "iconIdx": 1
     },
@@ -641,7 +733,7 @@
         "name": "clock-1",
         "prevSize": 32
       },
-      "setIdx": 2,
+      "setIdx": 3,
       "setId": 4,
       "iconIdx": 2
     },
@@ -720,7 +812,7 @@
         "name": "diagram-1",
         "prevSize": 32
       },
-      "setIdx": 2,
+      "setIdx": 3,
       "setId": 4,
       "iconIdx": 3
     },
@@ -780,7 +872,7 @@
         "name": "logo-1",
         "prevSize": 32
       },
-      "setIdx": 3,
+      "setIdx": 4,
       "setId": 3,
       "iconIdx": 0
     },
@@ -1010,7 +1102,7 @@
         "name": "logo-2",
         "prevSize": 32
       },
-      "setIdx": 3,
+      "setIdx": 4,
       "setId": 3,
       "iconIdx": 1
     },
@@ -1170,7 +1262,7 @@
         "name": "logo-3",
         "prevSize": 32
       },
-      "setIdx": 3,
+      "setIdx": 4,
       "setId": 3,
       "iconIdx": 2
     },
@@ -1240,7 +1332,7 @@
         "name": "logo-4",
         "prevSize": 32
       },
-      "setIdx": 3,
+      "setIdx": 4,
       "setId": 3,
       "iconIdx": 3
     },
@@ -1370,7 +1462,7 @@
         "name": "logo-5",
         "prevSize": 32
       },
-      "setIdx": 3,
+      "setIdx": 4,
       "setId": 3,
       "iconIdx": 4
     },
@@ -1580,7 +1672,7 @@
         "name": "logo-6",
         "prevSize": 32
       },
-      "setIdx": 3,
+      "setIdx": 4,
       "setId": 3,
       "iconIdx": 5
     }
